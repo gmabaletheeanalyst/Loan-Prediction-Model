@@ -52,8 +52,9 @@ After training and evaluating the models, the results were as follows:
 
 **Model	Accuracy**
 
-Logistic Regression	92%
+Logistic Regression	96%
 
-Decision Tree	99%
+Decision Tree	98%
 
-Random Forest	98%
+Random Forest	99%
+
